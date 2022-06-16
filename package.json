@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/syafiqadibafham/Portfolio-Website/issues"
   },
-  "homepage": "https://github.com/syafiqadibafham/Portfolio-Website#readme"
+  "homepage": "https://github.com/syafiqadibafham/Portfolio-Website#readme",
+  "keywords": [
+    "portfolio",
+    "website"
+  ]
 }
